@@ -39,3 +39,6 @@ C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_projec
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\obj\Debug\MicroServices01.Tests.csproj.CopyComplete
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\obj\Debug\MicroServices01.Tests.dll
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\obj\Debug\MicroServices01.Tests.pdb
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\bin\Debug\WebGrease.dll
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01.Tests\bin\Debug\Antlr3.Runtime.pdb

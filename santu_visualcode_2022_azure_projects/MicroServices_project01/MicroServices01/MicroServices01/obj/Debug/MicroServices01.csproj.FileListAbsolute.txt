@@ -83,3 +83,7 @@ C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_projec
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\obj\Debug\MicroServices01.csproj.CopyComplete
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\obj\Debug\MicroServices01.dll
 C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\obj\Debug\MicroServices01.pdb
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\bin\SendGrid.dll
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\bin\StarkbankEcdsa.dll
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\bin\SendGrid.pdb
+C:\Users\umasa\Desktop\santu_visualcode_2022_azure_projects\MicroServices_project01\MicroServices01\MicroServices01\bin\SendGrid.xml
